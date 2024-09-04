@@ -1,0 +1,183 @@
+[
+  {
+    "name": {
+      "ru": "Овен",
+      "en": "Aries"
+    },
+    "dates": {
+      "ru": "21 марта - 20 апреля",
+      "en": "March 21 – April 19"
+    },
+    "icon": "♈",
+    "description": {
+      "ru": "Овен – первый знак зодиака, символизирующий начало нового цикла. Люди, рожденные под этим знаком, как правило, энергичны, импульсивны и независимы.",
+      "en": "Aries is the first sign of the zodiac, symbolizing the beginning of a new cycle. People born under this sign are typically energetic, impulsive, and independent."
+    }
+  },
+  {
+    "name": {
+      "ru": "Телец",
+      "en": "Taurus"
+    },
+    "dates": {
+      "ru": "20 апреля - 20 мая",
+      "en": "April 20 – May 20"
+    },
+    "icon": "♉",
+    "description": {
+      "ru": "Телец – знак, символизирующий стабильность и надежность. Люди, рожденные под этим знаком, ценят комфорт, обладают упрямым характером и любят все прекрасное.",
+      "en": "Taurus is a sign that symbolizes stability and reliability. People born under this sign value comfort, are stubborn, and love everything beautiful."
+    }
+  },
+  {
+    "name": {
+      "ru": "Близнецы",
+      "en": "Gemini"
+    },
+    "dates": {
+      "ru": "21 мая - 21 июня",
+      "en": "May 21 – June 21"
+    },
+    "icon": "♊",
+    "description": {
+      "ru": "Близнецы – знак, символизирующий двойственность и коммуникабельность. Люди, рожденные под этим знаком, любознательны, общительны и обладают гибким умом.",
+      "en": "Gemini is a sign that symbolizes duality and communicativeness. People born under this sign are curious, sociable, and have a flexible mind."
+    }
+  },
+  {
+    "name": {
+      "ru": "Рак",
+      "en": "Cancer"
+    },
+    "dates": {
+      "ru": "22 июня - 22 июля",
+      "en": "June 22 – July 22"
+    },
+    "icon": "♋",
+    "description": {
+      "ru": "Рак – знак, символизирующий домашний очаг и заботу. Люди, рожденные под этим знаком, эмоциональны, интуитивны и ценят семейные узы.",
+      "en": "Cancer is a sign that symbolizes home and care. People born under this sign are emotional, intuitive, and value family ties."
+    }
+  },
+  {
+    "name": {
+      "ru": "Лев",
+      "en": "Leo"
+    },
+    "dates": {
+      "ru": "23 июля - 22 августа",
+      "en": "July 23 – August 23"
+    },
+    "icon": "♌",
+    "description": {
+      "ru": "Лев – знак, символизирующий лидерство и творчество. Люди, рожденные под этим знаком, обладают харизмой, стремятся к вниманию и любят быть в центре событий.",
+      "en": "Leo is a sign that symbolizes leadership and creativity. People born under this sign are charismatic, crave attention, and love to be the center of attention."
+    }
+  },
+  {
+    "name": {
+      "ru": "Дева",
+      "en": "Virgo"
+    },
+    "dates": {
+      "ru": "23 августа - 22 сентября",
+      "en": "August 24 – September 23"
+    },
+    "icon": "♍",
+    "description": {
+      "ru": "Дева – знак, символизирующий анализ и порядок. Люди, рожденные под этим знаком, практичны, внимательны к деталям и стремятся к совершенству.",
+      "en": "Virgo is a sign that symbolizes analysis and order. People born under this sign are practical, attentive to detail, and strive for perfection."
+    }
+  },
+  {
+    "name": {
+      "ru": "Весы",
+      "en": "Libra"
+    },
+    "dates": {
+      "ru": "23 сентября - 22 октября",
+      "en": "September 24 – October 23"
+    },
+    "icon": "♎",
+    "description": {
+      "ru": "Весы – знак, символизирующий гармонию и партнерство. Люди, рожденные под этим знаком, дипломатичны, стремятся к справедливости и ценят красоту.",
+      "en": "Libra is a sign that symbolizes harmony and partnership. People born under this sign are diplomatic, strive for justice, and appreciate beauty."
+    }
+  },
+  {
+    "name": {
+      "ru": "Скорпион",
+      "en": "Scorpio"
+    },
+    "dates": {
+      "ru": "23 октября - 22 ноября",
+      "en": "October 24 – November 22"
+    },
+    "icon": "♏",
+    "description": {
+      "ru": "Скорпион – знак, символизирующий глубину и страсть. Люди, рожденные под этим знаком, эмоциональны, решительны и обладают сильной интуицией.",
+      "en": "Scorpio is a sign that symbolizes depth and passion. People born under this sign are emotional, determined, and have a strong intuition."
+    }
+  },
+  {
+    "name": {
+      "ru": "Стрелец",
+      "en": "Sagittarius"
+    },
+    "dates": {
+      "ru": "23 ноября - 21 декабря",
+      "en": "November 23 – December 21"
+    },
+    "icon": "♐",
+    "description": {
+      "ru": "Стрелец – знак, символизирующий философию и путешествия. Люди, рожденные под этим знаком, оптимистичны, любознательны и стремятся к новым знаниям.",
+      "en": "Sagittarius is a sign that symbolizes philosophy and travel. People born under this sign are optimistic, curious, and seek new knowledge."
+    }
+  },
+  {
+    "name": {
+      "ru": "Козерог",
+      "en": "Capricorn"
+    },
+    "dates": {
+      "ru": "22 декабря - 19 января",
+      "en": "December 22 – January 19"
+    },
+    "icon": "♑",
+    "description": {
+      "ru": "Козерог – знак, символизирующий амбиции и ответственность. Люди, рожденные под этим знаком, целеустремлены, дисциплинированы и ценят стабильность.",
+      "en": "Capricorn is a sign that symbolizes ambition and responsibility. People born under this sign are determined, disciplined, and value stability."
+    }
+  },
+  {
+    "name": {
+      "ru": "Водолей",
+      "en": "Aquarius"
+    },
+    "dates": {
+      "ru": "20 января - 18 февраля",
+      "en": "January 20 – February 18"
+    },
+    "icon": "♒",
+    "description": {
+      "ru": "Водолей – знак, символизирующий оригинальность и независимость. Люди, рожденные под этим знаком, обладают яркой индивидуальностью, прогрессивным мышлением и стремлением к свободе. Они часто являются новаторами и гуманистами.",
+      "en": "Aquarius is a sign that symbolizes originality and independence. People born under this sign have a strong individuality, progressive thinking, and a desire for freedom. They are often innovators and humanitarians."
+    }
+  },
+  {
+    "name": {
+      "ru": "Рыбы",
+      "en": "Pisces"
+    },
+    "dates": {
+      "ru": "19 февраля - 20 марта",
+      "en": "February 19 – March 20"
+    },
+    "icon": "♓",
+    "description": {
+      "ru": "Рыбы – знак, символизирующий интуицию и творчество. Люди, рожденные под этим знаком, мечтательны, сострадательны и глубоко эмоциональны. Они обладают богатым воображением и часто погружены в свой внутренний мир.",
+      "en": "Pisces is a sign that symbolizes intuition and creativity. People born under this sign are dreamy, compassionate, and deeply emotional. They have rich imaginations and are often lost in their own inner world."
+    }
+  }
+
+]
